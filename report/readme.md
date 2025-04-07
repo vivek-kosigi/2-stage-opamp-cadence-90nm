@@ -15,10 +15,7 @@ This folder contains the hand calculations and theoretical analysis done prior t
 ---
 
 ## 📁 Contents
-- `hand_calculations.pdf` – Detailed handwritten or typed calculations
-- `design_summary.txt` – Summary of assumptions, equations used, and results
-- `specs_vs_results.pdf` – Table comparing target specs vs simulated results (optional)
-
+- `hand_calculations.pdf` – Complete handwritten calculations including specs, derivations, and transistor sizing
 ---
 
 ## 📌 Notes
