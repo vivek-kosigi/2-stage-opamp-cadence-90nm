@@ -20,9 +20,9 @@ To design a high-gain, stable two-stage Op-Amp that meets the essential analog p
 | Open-loop Gain   | ≥ 60 dB         |
 | Phase Margin     | ≥ 60°           |
 | Unity Gain BW    | ≥ 10 MHz        |
-| Slew Rate        | > 5 V/µs        |
+| Slew Rate        | > 20 V/µs        |
 | Output Swing     | Rail-to-Rail    |
-| Power Supply     | 1.2V            |
+| Power Supply     | 1.5V            |
 
 ---
 
@@ -48,7 +48,7 @@ To design a high-gain, stable two-stage Op-Amp that meets the essential analog p
 
 ## ✅ Current Status
 - [x] Schematic Completed  
-- [x] DC, AC, Transient Simulations  
+- [ ] DC, AC, Transient Simulations  
 - [ ] Layout LVS Matching  
 - [ ] Final Specs Summary
 
