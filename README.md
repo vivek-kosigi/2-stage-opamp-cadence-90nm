@@ -47,10 +47,14 @@ To design a high-gain, stable two-stage Op-Amp that meets the essential analog p
 ---
 
 ## ✅ Current Status
-- [x] Schematic Completed  
-- [ ] DC, AC, Transient Simulations  
-- [ ] Layout LVS Matching  
-- [ ] Final Specs Summary
+
+- [x] Schematic completed
+- [x] Transient simulation completed
+- [ ] DC analysis
+- [ ] AC analysis
+- [ ] Layout
+- [ ] DRC / LVS verification
+- [ ] Final performance summary
 
 ---
 
